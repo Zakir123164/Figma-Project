@@ -11,8 +11,8 @@ import pant2 from '../assets/Images/Frame 38 (1).png'
     <>
       <div className="Arrivals">
         <div className="container">
-           <div className="ArrivalHeading mt-[72px] mb-[55px] text-center text-[48px] font-bold">
-            <h1>top selling</h1>
+           <div className="ArrivalHeading mt-[72px] mb-[55px] text-center text-[48px] font-secondary font-bold">
+            <h1>TOP SELLING</h1>
            </div>
            <div className="Product flex justify-between ">
             <div className="singleProduct1">

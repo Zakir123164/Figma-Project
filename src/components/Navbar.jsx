@@ -28,7 +28,7 @@ const Navbar = () => {
         />
       </div>
 
-      <div className="flex gap-[13px] text-[24px] text-[#4B5563]">
+      <div className="flex gap-[13px] text-[24px] text-[#000000]">
         <FiShoppingCart />
         <FaRegUserCircle/>
       </div>

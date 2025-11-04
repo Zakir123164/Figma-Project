@@ -11,7 +11,7 @@ const Arrival = () => {
     <>
       <div className="Arrivals">
         <div className="container">
-           <div className="ArrivalHeading mt-[72px] mb-[55px] text-center text-[48px] font-bold">
+           <div className="ArrivalHeading mt-[72px] mb-[55px] text-center text-[48px] font-bold  font-secondary">
             <h1>NEW ARRIVALS</h1>
            </div>
            <div className="Product flex justify-between ">

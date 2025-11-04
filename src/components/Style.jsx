@@ -9,7 +9,7 @@ const Style = () => {
                <div className="container">
                     <div className="CardStyle w-full h-[866px] bg-[#F0F0F0] rounded-[40px] ">
                         <div className="StyleHead">
-                            <h1 className='text-center  pt-[70px] pb-16 font-bold text-[48px] font-sans'>BROWSE BY DRESS STYLE</h1>
+                            <h1 className='text-center  pt-[70px] pb-16 font-bold text-[48px]  font-secondary'>BROWSE BY DRESS STYLE</h1>
                        </div>
                        <div className="singleCart flex justify-evenly items-center ">
                      <img src={img1} alt="Casual" />
