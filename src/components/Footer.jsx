@@ -14,7 +14,7 @@ const Footer = () => {
     <>
        <section className="footer mt-[170px] relative">
            <div className="container]">
-           <div className="foterDiv w-full h-[499px bg-[#F0F0F0] pt-[140px] pb-[182px] px-[101px]">
+           <div className="foterDiv w-full h-[499px bg-[#F0F0F0] pt-[140px] px-[101px]">
             <div className="footerContent flex justify-between">
                 <div>
                   <img src={flogo} alt="" />
@@ -82,13 +82,13 @@ const Footer = () => {
                 </div>
             </div>
 
-            <hr className='mt-[50px] mb-[25px] text-[#00000010]' />
+            <hr className='text-[#00000010]' />
 
             <div className="footer2 flex justify-between items-center">
             <div>
-              <p className='font-normal font-primary text-[14px] text-[#00000060]'>Shop.co © 2000-2023, All Rights Reserved</p>
+              <p className='mt-[25px] mb-[99px] font-normal font-primary text-[14px] text-[#00000060]'>Shop.co © 2000-2023, All Rights Reserved</p>
               </div>
-            <div className='flex gap-3'>
+            <div className='flex gap-3 mt-5 mb-[93px]'>
               <img src={fimg1} alt="" />
               <img src={fimg2} alt="" />
               <img src={fimg3} alt="" />
